@@ -9,10 +9,7 @@
 🧾 Verificação de CPF duplicado  
 🧮 Cálculo automático do salário líquido com base nas horas e valor por hora  
 💸 Desconto do INSS aplicado conforme a faixa salarial  
-📊 Exibição de funcionários por faixa de salário:  
-  - Abaixo de R$500  
-  - Abaixo de R$1.000  
-  - Acima de R$4.000 / R$5.000 / R$7.000 / R$10.000  
+📊 Exibição de funcionários por faixa de salário  
 🔍 Consulta de funcionário por CPF  
 📋 Exibição de todos os funcionários cadastrados  
 💾 Salvamento dos dados em arquivo .txt  
